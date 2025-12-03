@@ -1,0 +1,20 @@
+# Proyecto RAG Multicloud Serverless (AWS + GCP)
+## 1. Resumen ejecutivo
+## 2. Objetivo del laboratorio
+## 3. Alcance final implementado
+## 4. Arquitectura general
+## 5. Diseño del pipeline RAG distribuido
+## 6. Selección del modelo de embeddings y decisión técnica
+## 7. Patrón de diseño LLM (RAG básico)
+## 8. AWS – Implementación
+## 9. GCP – Implementación
+## 10. OpenAI – Embeddings
+## 11. Diseño del módulo de retrieval (no implementado)
+## 12. Contenerización – Dockerfile del chunker
+## 13. Seguridad y secretos multinube
+## 14. Observabilidad (logs, métricas, trazabilidad)
+## 15. Pruebas funcionales
+## 16. Análisis de costos e egress
+## 17. Limitaciones y trabajo futuro
+## 18. Decomiso (cleanup multinube)
+## 19. Conclusiones
